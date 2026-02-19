@@ -68,6 +68,7 @@ progresstracker/
 SQLite file `progress.db` is created automatically in the working directory.
 
 Schema:
+
 ```sql
 CREATE TABLE entries (
     id         INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -81,3 +82,8 @@ CREATE TABLE entries (
     created_at DATETIME DEFAULT CURRENT_TIMESTAMP
 );
 ```
+
+## Screenshots:
+
+![HomePage] (screenshots/s1.png)
+![TrackerPage] (screenshots/s2.png)
