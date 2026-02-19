@@ -85,5 +85,5 @@ CREATE TABLE entries (
 
 ## Screenshots:
 
-![HomePage] (screenshots/s1.png)
-![TrackerPage] (screenshots/s2.png)
+![HomePage](screenshots/s1.png)
+![TrackerPage](screenshots/s2.png)
